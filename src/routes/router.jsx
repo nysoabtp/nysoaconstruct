@@ -23,4 +23,4 @@ export const router = createBrowserRouter([
       { path: 'projets', element: <Projets /> },
     ],
   },
-], { basename: '/nysoabtp' })
+], { basename: '/nysoaconstruct' })
